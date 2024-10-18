@@ -2,7 +2,11 @@
 A Passionate Full Stack  Developer from Pakistan
 
 # 💫 About Me:
-I’m currently deepening my skills in MERN Stack, Blockchain Development, DevOps<br> All of my projects are available at https://github.com/SharafatSaqib<br>Ask me about MERN, Blockchain, Solidity, Node.js, React ,Next<br>How to reach me sharabalti62@gmail.com<br>Know about my experiences https://www.linkedin.com/in/sharafatsaqib/
+. 🌱 I’m currently deepening my skills in MERN Stack, Blockchain Development, DevOps<br>
+. 💼 All of my projects are available at https://github.com/SharafatSaqib<br>
+. 💬 Ask me about MERN, Blockchain, Solidity, Node.js, React ,Next<br>
+. 📫 How to reach me sharabalti62@gmail.com<br> 
+. 📄 Know about my experiences https://www.linkedin.com/in/sharafatsaqib/
 
 
 ## 🌐 Socials:
