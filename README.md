@@ -101,17 +101,21 @@ I'm a **Full-Stack Software Engineer with 5+ years of experience** building web 
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
 
-| Project | What I built | Technologies |
+A selection of work demonstrating **product ownership, enterprise platforms, AI systems, scalable backend engineering, blockchain, and cloud/DevOps**.
+
+| Project & Role | Engineering Highlights | Core Stack |
 | --- | --- | --- |
-| **[BarakatAI](https://barakatai.app)** | AI-powered WhatsApp commerce automation for customer conversations, order capture, payments, and human handoff. | React, Node.js, Express, AI APIs |
-| **[NWFit](https://nwfit.ai)** | Fitness platform with coaching workflows, personalized workouts, subscriptions, and AI integrations. | Next.js, Node.js, MongoDB, AI |
-| **OmniBuilder** | Multi-model AI agent platform integrating content, voice, and video workflows through multiple providers. | React, TypeScript, AI APIs |
-| **PakVerify** | Blockchain-backed credential verification prototype with document hashing, QR verification, and audit trails. | Next.js, Node.js, Solidity, SQLite |
-| **VoxAI** | AI-enabled call-center demo with SIP/telephony infrastructure, containerized services, and automated deployments. | Next.js, Node.js, Asterisk, Docker, AWS, CI/CD |
+| **[BarakatAI — WhatsApp Commerce Automation](https://barakatai.app)**<br><sub>Founder & Full-Stack Developer</sub> | Built an AI-powered SaaS product for Pakistani SMEs, supporting **Urdu, English, and Roman Urdu** customer conversations, order capture, payment workflows, and human-agent escalation. | React, Tailwind CSS, Node.js, Express.js, LLM APIs |
+| **[WOAH PVS Information System](https://pvs.woah.org/)**<br><sub>Full-Stack Developer</sub> | Developed functionality for a structured **veterinary-services evaluation and reporting platform** supporting the World Organisation for Animal Health's PVS Pathway. Also contributed to the **[WOAH public website](https://www.woah.org/en/home/)** as a Frontend Developer. | React, Node.js, Express.js, MySQL |
+| **OmniBuilder — Multi-Model AI Agent Platform**<br><sub>Full-Stack Developer</sub> | Built a multi-model AI platform spanning content generation, video, sales and marketing workflows, with **task-based model routing** across **40+ provider integrations**. | React, Vite, Tailwind CSS, LLM APIs |
+| **SmartList AI — Real Estate Platform**<br><sub>Full-Stack Developer</sub> | Worked on an **AI-powered FSBO platform** combining property-pricing workflows, competitive contractor bidding, and dedicated portals for sellers, buyers, service partners, and administrators. | React, TypeScript, Express.js, PostgreSQL |
+| **[NWFit — AI Fitness & Web3 Platform](https://nwfit.ai)**<br><sub>Full-Stack Developer</sub> | Developed APIs, admin tools, personalized coaching and workout workflows, **AI recommendations**, and Web3-based activity rewards and wallet integration. | Next.js, Node.js, Express.js, MongoDB, AI, Web3 |
+| **[PakVerify — Blockchain Credential Registry](https://pak-verify.vercel.app)**<br><sub>Solo Full-Stack & Blockchain Developer · Testnet Prototype</sub> | Built document verification with **SHA-256 PDF hashing, QR credentials, smart-contract records, and revocation/expiry checks** on Ethereum Sepolia. | Next.js, TypeScript, Express.js, Solidity, SQLite |
+| **VoxAI — AI Call-Center & DevOps Demo**<br><sub>Personal Engineering Project</sub> | Built a **containerized telephony and AI demo** combining SIP/Asterisk, call workflows, AI post-call summaries, and AWS EC2 deployment with CI/CD. | Next.js, Node.js, Asterisk, Docker, AWS EC2, GitHub Actions |
 
-Explore more work on my **[GitHub repositories](https://github.com/SharafatSaqib?tab=repositories)** or **[portfolio](https://sharafatsaqib-portfolio.vercel.app)**.
+**More projects:** [Explore my portfolio](https://sharafatsaqib-portfolio.vercel.app) · [Browse GitHub repositories](https://github.com/SharafatSaqib?tab=repositories)
 
 ## 📚 Certifications & Professional Training
 
