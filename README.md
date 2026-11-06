@@ -123,17 +123,19 @@ A selection of work demonstrating **product ownership, enterprise platforms, AI 
 - **DevOps Engineering — Decoding DevOps: Basics to Advanced Projects with AI** — Training in progress, covering **Kubernetes, Terraform, Ansible, Jenkins, Linux administration, CI/CD, and cloud infrastructure automation**.
 - **Practical focus:** Production-grade **DevOps automation, observability, cloud architecture, reliability, and AI-powered systems**.
 
+
 ## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharafatSaqib&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SharafatSaqib&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SharafatSaqib&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=SharafatSaqib&layout=compact&theme=github_dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SharafatSaqib&theme=github-dark-blue&hide_border=true)
 
 </div>
+
 
 > GitHub language charts reflect public repository statistics, not overall professional experience.
 
