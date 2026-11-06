@@ -113,11 +113,11 @@ I'm a **Full-Stack Software Engineer with 5+ years of experience** building web 
 
 Explore more work on my **[GitHub repositories](https://github.com/SharafatSaqib?tab=repositories)** or **[portfolio](https://sharafatsaqib-portfolio.vercel.app)**.
 
-## 📚 Continuous Learning
+## 📚 Certifications & Professional Training
 
-- **AWS Certified Solutions Architect – Associate** — studying for certification.
-- Strengthening practical skills in **Kubernetes, Terraform, Ansible, Jenkins, Linux administration, and cloud architecture**.
-- Exploring production-grade **DevOps automation, observability, and AI-powered systems**.
+- **AWS Certified Solutions Architect – Associate** — Certification preparation in progress.
+- **DevOps Engineering — Decoding DevOps: Basics to Advanced Projects with AI** — Training in progress, covering **Kubernetes, Terraform, Ansible, Jenkins, Linux administration, CI/CD, and cloud infrastructure automation**.
+- **Practical focus:** Production-grade **DevOps automation, observability, cloud architecture, reliability, and AI-powered systems**.
 
 ## 📊 GitHub Activity
 
